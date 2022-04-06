@@ -9,7 +9,7 @@ class SEPractice extends Component {
     render() {
     return (
     <div>
-        <h2>Select SE Practice to get evidence for the claimed benefits</h2>
+        <h2>Select SE Practice to get evidence for the claimed benefits.</h2>
         <Dropdown></Dropdown>
         <Styles>
             <Table 
