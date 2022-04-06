@@ -10,7 +10,7 @@ const SubmissionForm = () => {
     <form onSubmit={handleSubmit(onSubmit)}>
     
       <input {...register("title")} placeholder="Title" />
-      <p><input {...register("authors")} placeholder="Author" /></p>
+      <p><input {...register("authors")} placeholder="Authors" /></p>
       <p><input {...register("source")} placeholder="Source" /></p> 
       <p><input {...register("pubyear")} placeholder="Publication Year" /></p>
       <p><input {...register("doi")} placeholder="DOI" /></p>
