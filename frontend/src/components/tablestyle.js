@@ -17,7 +17,7 @@ const Styles = styled.div `
       margin: 0;
       padding: 1rem;
       border-bottom: 1px solid black;
-      border-right: 1px solid blac;
+      border-right: 1px solid black;
       :last-child {
         border-right: 0;
       }
