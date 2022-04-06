@@ -1,7 +1,7 @@
 const tablecolumns = [
     {
       Header: 'Title',
-      accessor: 'titl'
+      accessor: 'title'
     }, {
       Header: 'Authors',
       accessor: 'authors'
