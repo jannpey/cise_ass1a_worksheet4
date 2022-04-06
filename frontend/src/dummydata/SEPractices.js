@@ -1,7 +1,7 @@
 const SEPractices = [
     {
       id: 1,
-      practice: 'TD',
+      practice: 'TDD',
     },
     {
       id: 2,
